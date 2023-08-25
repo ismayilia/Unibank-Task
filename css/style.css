@@ -1,0 +1,232 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    padding: 0 5rem;
+    
+}
+
+
+header{
+    padding: 25px 0;
+    
+}
+
+
+
+.header-all{
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+}
+
+.number a{
+    border: 1px solid rgba(0,0,0,.1);    border-radius:30px;
+    padding: 15px;
+    color:black;
+    font-weight: bold;
+}
+
+.number i{
+    color:#ff6b00;
+}
+
+#Cards{
+    margin-top: 50px;
+}
+.container h1{
+    color: #ff6b00;
+    margin:20px 0;
+    font-size: 35px;
+ 
+}
+
+.card-all{
+    display: flex;
+    justify-content: space-between;
+    background-color:#fafafa ;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+.top-left h2{
+    margin-bottom: 10px;
+}
+
+
+
+.left{
+    width: 30%;
+    
+}
+
+.left img{
+    width: 100%;
+}
+
+.right{
+    
+    width: 65%;
+}
+
+.bottom{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.b-box span{
+    padding-right: 150px;
+    font-size:20px;
+    font-weight: bold;;
+}
+
+.b-box{
+   display: flex;
+}
+
+.bottom i{
+    color: #ff6b00;
+    font-size: 25px;
+    
+}
+
+.bottom .b-box .icon{
+    margin-top: 10px;
+}
+
+.bottom .b-box .text{
+    margin-left: 10px;
+}
+
+.top-right a{
+    border: 1px solid #ff6b00;
+    background-color: #ff6b00;    
+    border-radius:30px;
+    padding: 15px 45px;
+    color:white;
+    font-weight: bold;
+}
+
+
+
+.containerSecond{
+    padding: 0 5rem;
+}
+
+.box-all{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+    
+}
+
+.box{
+    background-color: #fafafa;
+    border-radius: 20px;
+    width: 48%;
+    margin-top: 25px;
+    padding: 60px ;
+}
+
+.box img{
+    width: 100%;
+    border-radius: 25px;
+    box-shadow: -1px 4px 13px 4px #afa4a4;
+    margin-bottom: 25px;
+}
+
+.box .image{
+    width: 70%;
+    
+}
+
+h1{
+    margin: 30px 0;
+    color: #ff6b00 ;
+    font-size: 30px;
+    
+}
+
+.content p{
+    text-align: justify;
+    margin:20px 0px;
+    margin-bottom: 55px;
+    font-size: 14px;
+}
+
+.content a{
+    border: 1px solid #ff6b00;
+    background-color: #ff6b00;    
+    border-radius:30px;
+    padding: 15px 45px;
+    color:white;
+    font-weight: bold;
+}
+
+
+
+#otherCards{
+    margin-top:50px 
+}
+
+.footer{
+    display: flex;
+    padding: 0 5rem;
+    justify-content: space-between;
+    margin: 100px 0
+    
+}
+
+
+.helpers a{
+    display: block;
+    margin-top: 15px;
+    font-size: px;
+    color: rgba(0, 0, 0, 0.672);
+    font-size: 12px;
+    
+}
+
+h6{
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+
+.content .b{
+    border: 1px solid grey;
+    background-color: transparent;    
+    border-radius:30px;
+    padding: 15px 35px;
+    color:rgba(0, 0, 0, 0.655);
+    font-weight: bold;
+    margin-left:15px;
+}
+
+
+
+
+
+
+
+
+
